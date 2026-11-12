@@ -41,3 +41,16 @@ The dashboard helps users compare hospital performance, investigate operational 
 - Power BI dashboard: `dashboard/HealthStat.pbix`
 - Dashboard screenshots: `screenshots/`
 - Documentation: `documentation/`
+## Dashboard Preview
+
+### 1. Home – Project Overview
+![HealthStat Home](screenshots/01_home.jpeg)
+
+### 2. Length of Stay (LOS) Comparison
+![LOS Comparison](screenshots/02_los_comparison.jpeg)
+
+### 3. Hospital Cost Comparison
+![Cost Comparison](screenshots/03_cost_comparison.jpeg)
+
+### 4. Hospital Profile
+![Hospital Profile](screenshots/04_hospital_profile.jpeg)
